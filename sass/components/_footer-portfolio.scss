@@ -31,7 +31,7 @@
 
 .footer-content-place {
     color: #FFFFFF;
-    font-family: "Roboto", sans-serif;
+    font-family: $font-roboto;
     font-weight: 400;
     font-size: 14px;
 }
@@ -39,14 +39,14 @@
 .footer-content-email {
     font-size: 14px;
     color: #FFFFFF99;
-    font-family: "Roboto", sans-serif;
+    font-family: $font-roboto;
     font-weight: 400;
 }
 
 .footer-content-numder {
     font-size: 14px;
     color: #FFFFFF99;
-    font-family: "Roboto", sans-serif;
+    font-family: $font-roboto;
     font-weight: 400;
 }
 
@@ -88,7 +88,7 @@
 }
 
 .footer-links-title {
-    font-family: "Roboto", sans-serif;
+    font-family: $font-roboto;
     font-size: 14px;
     font-weight: 700;
     line-height: 16.41px;
@@ -118,7 +118,7 @@
 }
 
 .footer-join-form-title {
-    font-family: "Roboto", sans-serif;
+    font-family: $font-roboto;
     font-size: 14px;
     font-weight: 700;
     line-height: 16.41px;
@@ -135,7 +135,7 @@
     border: 1px solid #FFFFFF4D;
     box-shadow: 0px 4px 4px 0px #00000026;
     border-radius: 4px;
-    font-family: "Roboto", sans-serif;
+    font-family: $font-roboto;
     font-size: 16px;
     font-weight: 400;
     line-height: 20px;
@@ -151,10 +151,10 @@
 .footer-join-form-button {
     width: 200px;
     height: 50px;
-    background: #2196F3;
+    background: $main-cite-color;
     border-radius: 4px;
     box-shadow: 0px 4px 4px 0px #00000026;
-    font-family: "Roboto", sans-serif;
+    font-family: $font-roboto;
     font-size: 16px;
     font-weight: 700;
     line-height: 30px;

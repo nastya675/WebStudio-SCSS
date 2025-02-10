@@ -30,7 +30,7 @@
     width: 696px;
     height: 120px;
     margin-top: 200px;
-    font-family: "Roboto", sans-serif;
+    font-family: $font-roboto;
     font-weight: 900;
     line-height: 1.3;
     letter-spacing: 0.06em;
@@ -49,7 +49,7 @@
     width: 216px;
     background: #2196F3;
     color: #FFFFFF;
-    font-family: "Roboto", sans-serif;
+    font-family: $font-roboto;
     font-weight: 700;
     font-size: 16px;
     line-height: 1.8;
@@ -92,7 +92,7 @@ transform: translate(110%, 30%) scale(1);
 }
 
 .main-modal-title{
-    font-family: "Roboto", sans-serif;
+    font-family: $font-roboto;
 font-size: 20px;
 font-weight: 700;
 line-height: 23.44px;
@@ -139,7 +139,7 @@ height: 342px;
 
 
 .mm-label {
-	font-family: "Roboto", sans-serif;
+	font-family: $font-roboto;
 font-size: 12px;
 font-weight: 400;
 line-height: 14.06px;
@@ -160,7 +160,7 @@ border-radius: 4px;
     height: 120px;
     border: 1px solid #21212133;
     border-radius: 4px;
-    font-family: "Roboto", sans-serif;
+    font-family: $font-roboto;
     font-size: 12px;
     font-weight: 400;
     line-height: 14.06px;
@@ -189,7 +189,7 @@ cursor: pointer;
 }
 
 .mm-terms-text{
-    font-family: "Roboto", sans-serif;
+    font-family: $font-roboto;
 font-size: 14px;
 font-weight: 400;
 line-height: 24px;
@@ -200,7 +200,7 @@ color: #757575;
 
 .mm-terms-link{
     color: #2196F3;
-    font-family: "Roboto", sans-serif;
+    font-family: $font-roboto;
 font-size: 14px;
 font-weight: 400;
 line-height: 24px;
@@ -218,7 +218,7 @@ height: 50px;
 border-radius: 4px;
 background: #2196F3;
 box-shadow: 0px 4px 4px 0px #00000026;
-font-family: "Roboto", sans-serif;
+font-family: $font-roboto;
 font-size: 16px;
 font-weight: 700;
 line-height: 30px;
@@ -249,7 +249,7 @@ cursor: pointer;
 }
 
 .main-feature-name1 {
-    font-family: "Roboto", sans-serif;
+    font-family: $font-roboto;
     font-weight: 700;
     color: #212121;
     font-size: 14px;
@@ -269,7 +269,7 @@ cursor: pointer;
 
 
 .main-feature-name2 {
-    font-family: "Roboto", sans-serif;
+    font-family: $font-roboto;
     font-weight: 700;
     color: #212121;
     font-size: 14px;
@@ -288,7 +288,7 @@ cursor: pointer;
 }
 
 .main-feature-name3 {
-    font-family: "Roboto", sans-serif;
+    font-family: $font-roboto;
     font-weight: 700;
     color: #212121;
     font-size: 14px;
@@ -307,7 +307,7 @@ cursor: pointer;
 }
 
 .main-feature-name4 {
-    font-family: "Roboto", sans-serif;
+    font-family: $font-roboto;
     font-weight: 700;
     color: #212121;
     font-size: 14px;
@@ -326,7 +326,7 @@ cursor: pointer;
 }
 
 .main-feature-text {
-    font-family: "Roboto", sans-serif;
+    font-family: $font-roboto;
     width: 270px;
     font-weight: 400;
     font-size: 14px;
@@ -349,7 +349,7 @@ cursor: pointer;
     box-sizing: border-box;
 }
 .photos-mini-group-overlay{
-    font-family: "Roboto", sans-serif;
+    font-family: $font-roboto;
 font-size: 14px;
 font-weight: 700;
 line-height: 16.41px;
@@ -372,7 +372,7 @@ margin-top: -73px;
     font-size: 36px;
     height: 42px;
     margin-top: 94px;
-    font-family: "Roboto", sans-serif;
+    font-family: $font-roboto;
     font-weight: 700;
     line-height: 1.17;
     letter-spacing: 0.03em;
@@ -411,7 +411,7 @@ margin-top: -73px;
     justify-content: center;
     font-size: 36px;
     margin-top: 94px;
-    font-family: "Roboto", sans-serif;
+    font-family: $font-roboto;
     font-weight: 700;
     line-height: 1.17;
     letter-spacing: 0.03em;
@@ -471,7 +471,7 @@ margin-top: -73px;
     font-size: 16px;
     color: #212121;
     margin-top: 30px;
-    font-family: "Roboto", sans-serif;
+    font-family: $font-roboto;
     font-weight: 500;
     letter-spacing: 0.03em;
 }
@@ -483,7 +483,7 @@ margin-top: -73px;
     font-size: 16px;
     color: #757575;
     margin-top: 10px;
-    font-family: "Roboto", sans-serif;
+    font-family: $font-roboto;
     font-weight: 400;
     line-height: 1.17;
     letter-spacing: 0.03em;
